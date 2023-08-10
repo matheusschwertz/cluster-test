@@ -16,6 +16,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 ```bash
 git clone https://github.com/seu-usuario/seu-projeto.git
 
+```bash
 2. Navegue até o diretório do projeto:
 cd seu-projeto
 
